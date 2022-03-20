@@ -1,0 +1,8 @@
+node_modules
+yarn.lock
+yarn-error.log
+.idea
+package-lock.json
+.evn*
+.git
+*.js
